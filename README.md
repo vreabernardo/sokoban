@@ -1,6 +1,6 @@
 # Sokoban Game
 
-A Sokoban game created using Kotlin and the pt.isel.canvas library for GUI. This was the final project for the first semester of college programming class.
+A Sokoban game created using Kotlin and the pt.isel.canvas library for GUI.
 
 <p align="center">
     <img width=50% src="https://user-images.githubusercontent.com/45080358/214741346-622b9222-3353-46f8-bca8-6e78feb31c01.gif">
