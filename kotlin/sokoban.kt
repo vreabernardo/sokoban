@@ -343,10 +343,10 @@ fun main() {
             if (!allBoxesInTargets(game)) {
                 // Determine the direction of the move based on the key pressed.
                 val direction = when (k.text) {
-                    "↓" -> Direction.Down
-                    "↑" -> Direction.UP
-                    "→" -> Direction.Right
-                    "←" -> Direction.Left
+                    "Down" -> Direction.Down
+                    "Up" -> Direction.UP
+                    "Right" -> Direction.Right
+                    "Left" -> Direction.Left
                     else -> null
                 }
                 // If a valid direction was specified, update the game state.
